@@ -2,19 +2,19 @@
 # StudentLevels
 #
 #
-# Prerequisets: 
+Prerequisets: 
 #
-# NPM
-# Mongodb
-# Reactjs 
+ NPM
+ Mongodb
+ Reactjs 
 # 
-# Run mogod in terminal if set in path
-# Run mongo if set in path
+ Run mogod in terminal if set in path
+ Run mongo if set in path
 #
-# Run npm install
-# Run Nodemon
+ Run npm install
+ Run Nodemon
 #
-# Install frontend folder
+ Install frontend folder
 #
 #
 #
